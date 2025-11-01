@@ -1,0 +1,1 @@
+This image contains {unwanted artifact}. Please remove. Preserve all other details.
