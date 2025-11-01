@@ -18,10 +18,11 @@ This index is auto-generated. Browse prompts by category:
 - [Artifact Removal](#artifact-removal)
 - [Artistic Effects](#artistic-effects)
 - [Atmosphere](#atmosphere)
+- [Avatars](#avatars)
 - [Background Editing](#background-editing)
-- [Color](#color)
 - [Color Adjustments](#color-adjustments)
 - [Enhancements](#enhancements)
+- [Expression Edits](#expression-edits)
 - [Graphics](#graphics)
 - [Style Transfer](#style-transfer)
 - [Subject Separation](#subject-separation)
@@ -45,17 +46,19 @@ This index is auto-generated. Browse prompts by category:
 - [Golden Hour](prompts/atmosphere/golden-hour.md)
 - [Vintage Film](prompts/atmosphere/vintage-film.md)
 
+### Avatars
+
+- [Cartoon Style](prompts/avatars/cartoon-style.md)
+- [Photorealistic](prompts/avatars/photorealistic.md)
+
 ### Background Editing
 
 - [Eliminate Clutter](prompts/background-editing/eliminate-clutter.md)
 
-### Color
-
-- [Saturation](prompts/color/saturation.md)
-
 ### Color Adjustments
 
 - [Black And White](prompts/color-adjustments/black-and-white.md)
+- [Saturation](prompts/color-adjustments/saturation.md)
 - [Sepia Tone](prompts/color-adjustments/sepia-tone.md)
 - [Vibrant Colors](prompts/color-adjustments/vibrant-colors.md)
 
@@ -64,9 +67,18 @@ This index is auto-generated. Browse prompts by category:
 - [Denoise](prompts/enhancements/denoise.md)
 - [Sharpen](prompts/enhancements/sharpen.md)
 
+### Expression Edits
+
+- [Super Depressed](prompts/expression-edits/super-depressed.md)
+- [Super Happy](prompts/expression-edits/super-happy.md)
+
 ### Graphics
 
+- [Flowchart 3D Style](prompts/graphics/flowchart-3d-style.md)
 - [Handwriting Improvement](prompts/graphics/handwriting-improvement.md)
+- [Make This A Sticker](prompts/graphics/make-this-a-sticker.md)
+- [Remove All Text](prompts/graphics/remove-all-text.md)
+- [Smart Text Replacement](prompts/graphics/smart-text-replacement.md)
 - [Whiteboard](prompts/graphics/whiteboard.md)
 - [Wireframe Cleaner](prompts/graphics/wireframe-cleaner.md)
 
